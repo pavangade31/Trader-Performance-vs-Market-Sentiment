@@ -64,3 +64,5 @@ jupyter notebook market_analysis.ipynb
 ```
 
 Make sure the CSV files are stored in `data/raw/` before running the notebook.
+
+Google Drive link : https://drive.google.com/drive/folders/1U2Fxadw_sd-t7Ih8bkOX2goL1YD5SMP3?usp=drive_link
